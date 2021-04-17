@@ -11,3 +11,4 @@ $(".saveBtn").on("click", function () {
 })
 
 $("#timeNine .description").val(localStorage.getItem("timeNine"));
+$("#timeTen .description").val(localStorage.getItem("timeTen"));
