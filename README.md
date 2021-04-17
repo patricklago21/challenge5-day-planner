@@ -1,7 +1,7 @@
 To Do
 
-- add current time and date at top of page 
+<!-- - add current time and date at top of page  -->
 
-- build time blocks with for each hour and button to edit 
+<!-- - build one time block with correct styling -->
 
 - 
