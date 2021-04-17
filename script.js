@@ -12,3 +12,11 @@ $(".saveBtn").on("click", function () {
 
 $("#timeNine .description").val(localStorage.getItem("timeNine"));
 $("#timeTen .description").val(localStorage.getItem("timeTen"));
+$("#timeEleven .description").val(localStorage.getItem("timeEleven"));
+$("#timeTwelve .description").val(localStorage.getItem("timeTwelve"));
+$("#timeOne .description").val(localStorage.getItem("timeOne"));
+$("#timeTwo .description").val(localStorage.getItem("timeTwo"));
+$("#timeThree .description").val(localStorage.getItem("timeThree"));
+$("#timeFour .description").val(localStorage.getItem("timeFour"));
+$("#timeFive .description").val(localStorage.getItem("timeFive"));
+$("#timeHappyHour .description").val(localStorage.getItem("timeHappyHour"));
